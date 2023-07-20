@@ -1,19 +1,23 @@
 # Olist-Exploratory-Data-Analysis
 Exploratory data analysis using Python
 Introduction
+
 A Data Analysis challenge was hosted in April, 2023, on the twitter tech space, and we were asked to analyze and explore Olist E-commerce dataset pulled from Kaggle. The dataset is designed to help data analysts and researchers better understand the e-commerce landscape in Brazil and to identify opportunities for growth. And to help Olist gain better insights into its e-commerce platform and optimize opportunities available opportunities for growth.
 Olist is a Brazilian e-commerce platfom that connects small and medium-sized businesses to customers across Brazil. The platform operates as a market place, where merchants can list their products and services and customers can browse and purchase them online.
 
 Dataset Description
+
 The Olist dataset is available on Kaggle and is a collection of anonymized data about orders placed on Olist platform between January 2016 and August 2018. It contains a wide range of information about each order including the order date, product details, payment and shipping information, customer and seller ID, and customer reviews.
 Tool used: For this challenge I used Python to carried out exploratory data analysis.
 
 Steps
+
 •	Data Cleaning: merged the datasets, checked for missing values and duplicates
 •	Exploratory Data Analysis: Explored the dataset to gain insights about Olist
 •	Conclusion and Recommendation.
 
 Insights
+
 •	Olist generated a total revenue of $16,008,872.12. There was an increase in revenue from fourth quarter of 2016 to the second quarter of 2018, and there was a reduction in total revenue generated from the third quarter of 2018 to the fourth quarter.
 •	A total of 98816 valid order was placed. And it varies by month. There was a continuous increase in order from January 2016 to October 2017, and there a slight reduction in valid order placed from December 2017 to August 2018.
 •	The most popular product categories include the bed bath stand, health beauty, sport leisure, furniture decor and computer accessories. The bed bath stand had a sales volume of 11823, health beauty had 9975, sport leisure and furniture both had a sale volume of 8744, while computer accessories had a sales volume of 8082.
@@ -28,6 +32,7 @@ Insights
 
  
 Conclusion and Recommendation
+
 From the insights gotten from the data, we can say Olist marketing spend and channel mix impact sales of some products positively, while some products didn't generate much revenue. However, to optimize its marketing strategy to increase ROI, Olist should consider focusing on Search engine optimization to increase visibility and attract more customers, reduce the cost of customer acquisition. The lower the CCA,the more profitable Olist will be. And Olist should focus more on fast selling products such as those in the computer accessories.
 
 
